@@ -1,10 +1,10 @@
 ## Hello, I'm Porky
 
-🧠 Computer science student<br/>
+🧠 Computer science student at The Ohio State Univeristy<br/>
 ❗I adore mathematics, programming, and learning languages<br/>
-🖥️I work in web development, software development, and a little game development<br/>
+🖥️I work in web, software, and game development<br/>
 🎮A huge gamer in a variety of genres, from games such as Marvel Rivals, Saints Row IV, and Counter Strike Surfing<br/>
-💭Currently learning Java programming <br/>
+💭Currently learning JavaScript and Luau<br/>
 
 
 
